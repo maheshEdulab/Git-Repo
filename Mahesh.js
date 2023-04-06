@@ -1,0 +1,1 @@
+console.log("First new program ", 2*3);
